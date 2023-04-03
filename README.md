@@ -1,2 +1,3 @@
 # InmersionDatos
 Curso alura Inmersion en datos
+Esto es todo lo practicado durante el curso brindado por alura para comenzar a trabajar con Colaboratory, Python, las librerias Matplot y seaborn entre otras...
